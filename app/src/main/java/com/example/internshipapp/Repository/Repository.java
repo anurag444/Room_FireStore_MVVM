@@ -27,7 +27,6 @@ public class Repository {
     }
     public void insert(List<Student> studentList){
         new insertAsync(studentDatabase).execute(studentList);
-
     }
     public void deleteAll()
     {
