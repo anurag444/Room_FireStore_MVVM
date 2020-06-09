@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Internship App</string>
+    <string name="student_information">Student Information</string>
+    <string name="enter_id">Enter id</string>
+    <string name="enter_student_name">Enter Student Name</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+</resources>
